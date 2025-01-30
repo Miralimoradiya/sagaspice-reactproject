@@ -1,5 +1,5 @@
 
-# SagaSpice Shopping Website
+# SagaSpice Website
 
 **SagaSpice** is a fully responsive e-commerce website built with **ReactJS**, **TailwindCSS**, **Bootstrap**, and **Swiper**. The website provides a smooth and interactive shopping experience with modern UI components, dynamic content, and mobile-first design. It is live on **Netlify** and optimized for both desktop and mobile users.
 
