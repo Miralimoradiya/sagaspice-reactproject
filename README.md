@@ -3,6 +3,7 @@
 
 **SagaSpice** is a fully responsive e-commerce website built with **ReactJS**, **TailwindCSS**, **Bootstrap**, and **Swiper**. The website provides a smooth and interactive shopping experience with modern UI components, dynamic content, and mobile-first design. It is live on **Netlify** and optimized for both desktop and mobile users.
 
+you can see my **[portfolio](https://portfolio-miralimoradiya.netlify.app/)**
 ## Key Features
 
 - **Fully Responsive Design**: Seamless experience across all screen sizes (desktop, tablet, and mobile).
